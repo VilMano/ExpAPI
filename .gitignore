@@ -1,0 +1,5 @@
+Expenses/bin/
+Expenses/obj/
+Expenses/appSettings.json
+Expenses/movements.db
+Expenses/wwwroot
